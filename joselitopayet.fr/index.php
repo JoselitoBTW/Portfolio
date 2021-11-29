@@ -345,6 +345,21 @@
                     </div>
                 </div>
 
+                <div class="col-md-4 col-sm-6 portfolio-item" data-aos="zoom-in-down">
+                    <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fas fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img class="img-fluid" src="images/siteweb/creativeagency/site1.png" alt="creativeagency">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Creative Agency</h4>
+                        <p class="text-muted">Création d'un thème Wordpress(Wordpress, HTML5/CSS3, PHP, MySQL, Bootstrap)</p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
@@ -547,6 +562,45 @@
                                     <ul class="list-inline">
                                         <li>Date: Octobre 2021</li>
                                         <li>Categorie: CRUD</li>
+                                    </ul>
+                                    <button class="btn btn-primary mx-auto d-block" data-dismiss="modal" type="button">
+                                        <i class="fas fa-times"></i>
+                                        Retour</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Creative Agency -->
+        <div class=" modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-dismiss="modal">
+                        <div class="lr">
+                            <div class="rl"></div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 mx-auto">
+                                <div class="modal-body">
+                                    <!-- Project Details Go Here -->
+                                    <h2 class="text-uppercase">Creative Agency</h2>
+                                    <p class="item-intro text-muted">Thème Wordpress</p>
+                                    <a href="https://joselitop.promo-93.codeur.online/creativeagency/" rel="noopener"
+                                        target="_blank"><img class="img-fluid d-block mx-auto"
+                                            src="images/siteweb/creativeagency/site2.png" alt="creativeagency"></a>
+                                    <br>
+                                    <hr>
+                                    <p>Création d'un thème Wordpress<br>
+                                        Développé avec :<br> Wordpress, HTML, CSS, PHP, MySQL</p>
+                                    <hr>
+                                    <ul class="list-inline">
+                                        <li>Date: Novembre 2021</li>
+                                        <li>Categorie: Thème Wordpress</li>
                                     </ul>
                                     <button class="btn btn-primary mx-auto d-block" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
